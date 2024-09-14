@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+FEM
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Numerical investigation of linear advection equation with SUPG method. [Report][http://Xu-Duan.github.io/files/Numerical%20investigation%20of%20linear%20advection%20equation%20with%20SUPG%20method.pdf]
+
+## 2D result
+![2D result](http://Xu-Duan.github.io/images/solution-5-2d.png)
+
+## 3D result
+![3D result](http://Xu-Duan.github.io/images/solution-2-3d.png)
 
 Work experience
 ======
