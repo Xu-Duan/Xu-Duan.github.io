@@ -16,14 +16,14 @@ I am current a first-year master student majoring in Mechanical Engineering at T
 
 I am interested in FEM, software engineering, control and scientific computing.
 
----------------
+---
 
 Education
 ======
 * M.S. in Mechanical Engineering, The University of Texas at Austin, 2026 (Expected)
 * B.S. in Naval Architecture and Marine Engineering, Shanghai Jiao Tong University, 2023
 
--------------
+---
 
 Work experience
 ======
@@ -36,7 +36,8 @@ Work experience
   * Haipeng Marine Engineering (Shanghai) Co.
   * Duties included: Hydrodynamic and structural analysis of marine structures
 
-------------
+---
+
 Honors and Awards
 ======
   * Philip C. and Linda L. Lewis Foundation Graduate Fellowship Aug. 2024
@@ -44,7 +45,8 @@ Honors and Awards
   * Shengshen Scholarship Sep. 2021
   * CCS (China ship Classification Society) Scholarship Sep. 2020
 
------------
+---
+
 Skills
 ======
 * Modeling
@@ -61,7 +63,7 @@ Skills
 * Linux System
 * Microsoft Office suite
 
--------------
+---
 
 Highlighted Courses
 ======
