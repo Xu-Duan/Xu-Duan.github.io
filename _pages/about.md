@@ -17,6 +17,7 @@ I am current a first-year master student majoring in Mechanical Engineering at T
 I am interested in FEM, software engineering, control and scientific computing.
 
 ---------------
+
 Education
 ======
 * M.S. in Mechanical Engineering, The University of Texas at Austin, 2026 (Expected)
@@ -32,6 +33,7 @@ Work experience
 * Summer 2023: Engineering Intern
   * Haipeng Marine Engineering (Shanghai) Co.
   * Duties included: Hydrodynamic and structural analysis of marine structures
+
 ------------
 Honors and Awards
 ======
@@ -39,7 +41,8 @@ Honors and Awards
   * CCS (China ship Classification Society) Scholarship Sep. 2022
   * Shengshen Scholarship Sep. 2021
   * CCS (China ship Classification Society) Scholarship Sep. 2020
------
+
+-----------
 Skills
 ======
 * Modeling
