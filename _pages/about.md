@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 I am current a first-year master student majoring in Mechanical Engineering at The University of Texas at Austin.
 
+I am interested in FEM, software engineering, control and scientific computing.
+
 Education
 ======
 * M.S. in Mechanical Engineering, The University of Texas at Austin, 2026 (Expected)
@@ -21,29 +23,14 @@ Education
 
 Work experience
 ======
-* Spring 2024: Graduate Research Assistant
+* Fall 2024: Graduate Research Assistant
   * The University of Texas at Austin
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties includes: Two-phase fluid model in the well
+  * Supervisor: [Dr. van Oort](https://www.pge.utexas.edu/facultystaff/faculty-directory/vanoort)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Engineering Intern
+  * Haipeng Marine Engineering (Shanghai) Co.
+  * Duties included: Hydrodynamic and structural analysis of marine structures
   
 Honors and Awards
 ======
@@ -51,3 +38,54 @@ Honors and Awards
   * CCS (China ship Classification Society) Scholarship Sep. 2022
   * Shengshen Scholarship Sep. 2021
   * CCS (China ship Classification Society) Scholarship Sep. 2020
+
+Skills
+======
+* Modeling
+  * Solidworks
+  * Rhino
+  * AutoCad
+* Programming
+  * python
+  * C/C++
+  * MATLAB
+* Simulation
+  * Abaqus
+  * Ansys
+* Linux System
+* Microsoft Office suite
+
+Highlighted Courses
+======
+
+## Mathematics
+  * Calculus
+  * Linear Algebra
+  * Probability and Statistics
+  * Mathematical Methods in Physics
+  * Partial Differential Equations
+  * Matrix Theory
+  * Stochastic Theory
+  * Differential Geometry
+  * Functional Analysis
+  * Multivariate Statistical Analysis
+  * Convex Optimization
+  * Engineering Analysis
+
+## Programming
+  * Thinking and Approach of Programming (C++)
+  * Data Structure (c++)
+  * Java Language
+
+## Mechanics and Thermodynamics
+  * Dynamics
+  * Mechanics of Materials
+  * Structural Mechanics
+  * Ship Vibrations
+  * Finite Element Analysis
+  * Engineering Heat Transfer
+
+## Control
+  * Fundamentals of Control Theory
+  * Introduction to Modern Control
+  * Underwater working system
