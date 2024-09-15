@@ -20,5 +20,6 @@ Numerical investigation of linear advection equation with SUPG method. [Report](
 ![3D result](http://Xu-Duan.github.io/images/solution-2-3d.png)
 
 Shallow water wave simulation
+======
 Numerical investigation of linear advection equation with SUPG method. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
-![alt text](timeStep.png)
+![Time step](timeStep.png)
