@@ -23,3 +23,8 @@ Shallow water wave simulation
 ======
 Numerical investigation of linear advection equation with SUPG method. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
 ![Time step](http://Xu-Duan.github.io/images/timeStep.png)
+
+Fluid model using Lattice Boltzmann Method (LBM)
+======
+Numerical investigation of a fluid domain activated by a waving plate using Lattice Boltzmann Method (LBM) 
+![Time step](http://Xu-Duan.github.io/images/LBM-project.gif)
