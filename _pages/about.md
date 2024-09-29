@@ -12,9 +12,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 [Resume](http://Xu-Duan.github.io/files/Resume.pdf)
 
-I am current a first-year master student majoring in Mechanical Engineering at The University of Texas at Austin.
+I am current a first-year master student majoring in Mechanical Engineering with focus on Dynamic System and Control at The University of Texas at Austin.
 
-I am interested in FEM, software engineering, control and scientific computing.
+I am interested in FEM, control, and fluid dynamics.
 
 ---
 
@@ -41,9 +41,8 @@ Work experience
 Honors and Awards
 ======
   * Philip C. and Linda L. Lewis Foundation Graduate Fellowship Aug. 2024
-  * CCS (China ship Classification Society) Scholarship Sep. 2022
+  * CCS (China ship Classification Society) Scholarship Sep. 2022, 2020
   * Shengshen Scholarship Sep. 2021
-  * CCS (China ship Classification Society) Scholarship Sep. 2020
 
 ---
 

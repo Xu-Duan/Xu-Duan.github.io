@@ -11,7 +11,8 @@ redirect_from:
 
 [RAPID](https://drilling.utexas.edu/)
 ======
-*Well Hydraulics and Thermodynamics Research Assistant, Supervisor: Dr. van Oort*
+*Well Hydraulics and Thermodynamics Research Assistant, Supervisor: [Dr. van Oort](https://www.pge.utexas.edu/facultystaff/faculty-directory/vanoort)*
+TODO
 
 Haipeng Marine Engineering (Shanghai) Co.
 ======
