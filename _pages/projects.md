@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-FEM
+1. FEM
 ======
 Numerical investigation of linear advection equation with SUPG method. [Report](http://Xu-Duan.github.io/files/Numerical%20investigation%20of%20linear%20advection%20equation%20with%20SUPG%20method.pdf)
 
@@ -19,22 +19,22 @@ Numerical investigation of linear advection equation with SUPG method. [Report](
 ## 3D result
 ![3D result](http://Xu-Duan.github.io/images/solution-2-3d.png)
 
-Shallow water wave simulation
+2. Shallow water wave simulation
 ======
 Numerical investigation of linear advection equation with SUPG method. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
 ![Time step](http://Xu-Duan.github.io/images/timeStep.png)
 
-Fluid model using Lattice Boltzmann Method (LBM)
+3. Fluid model using Lattice Boltzmann Method (LBM)
 ======
 Numerical investigation of a fluid domain activated by a waving plate using Lattice Boltzmann Method (LBM) 
 ![LBM](http://Xu-Duan.github.io/images/LBM-project.gif)
 
-Image reconstruction using convex optimization
+4. Image reconstruction using convex optimization
 ======
 we delved into the realm of dictionary learning models and optimization algorithms to address the challenges of grayscale and color image processing. Our primary focus was on two key aspects: dictionary learning and descent methods. [Report](http://Xu-Duan.github.io/files/optimization.pdf)
 ![Image Comparison](http://Xu-Duan.github.io/images/Optimization.png)
 
-Control System Design for an Underwater Vehicle
+5. Control System Design for an Underwater Vehicle
 ======
 * Developed a mathematical model and simulation of a 6-DOF underwater vehicle with voltage distribution for different propellers in Simulink.
 * Designed a Proportional Integral Differential (PID) control system to correct deviations between the robot’s actual depth and bow direction and target depth and bow direction with overshoot 19% and 31% and settling time 5s and 15s for depth and bow direction, respectively.
