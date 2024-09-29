@@ -9,17 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Control
+[RAPID](https://drilling.utexas.edu/)
 ======
-Coupled Managed pressure and temperature drilling, MIMO (Under Progress)
+*Well Hydraulics and Thermodynamics Research Assistant, Supervisor: Dr. van Oort*
 
-
-Fluid
+Haipeng Marine Engineering (Shanghai) Co.
 ======
-
-Numerical Modelling of drilling fluid in the wellbore (Under Progress)
-
-Numerical Modelling of waves in the shallow water (wait)
-
-Structural
-======
+*Hydrodynamics and Structural Engineering Intern*
+* Analyzed the responses of large net cages under regular wave excitation in time domain using the coupled rigid-body motion equation and results showed that the average increase of net tension at key positions is 51% when considering the influence of floating bodies on the net.![Floatingbody](http://Xu-Duan.github.io/images/Comparison-Floatingbody.png)
+* Conducted hydro-elastic analysis of fish farming vessels using the coupled hydroelastic equation and found that the bending moment of the elastic model at the section near the middle is 48% that of the rigid model.![Floatingbody](http://Xu-Duan.github.io/images/Comparison-Hydroelastic.png)
