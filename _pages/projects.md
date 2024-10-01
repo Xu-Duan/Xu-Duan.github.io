@@ -18,17 +18,25 @@ Numerical investigation of linear advection equation with SUPG method. [Report](
 ## 3D result
 ![3D result](http://Xu-Duan.github.io/images/solution-2-3d.png)
 
+---
+
 # 2. Shallow water wave simulation
-Numerical investigation of linear advection equation with SUPG method. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
+Numerical modeling of water wave evolution in shallow and variable-depth terrain using Finite Volume in Fortran. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
 ![Time step](http://Xu-Duan.github.io/images/timeStep.png)
+
+---
 
 # 3. Fluid model using Lattice Boltzmann Method (LBM)
 Numerical investigation of a fluid domain activated by a waving plate using Lattice Boltzmann Method (LBM) 
 ![LBM](http://Xu-Duan.github.io/images/LBM-project.gif)
 
+---
+
 # 4. Image reconstruction using convex optimization
 we delved into the realm of dictionary learning models and optimization algorithms to address the challenges of grayscale and color image processing. Our primary focus was on two key aspects: dictionary learning and descent methods. [Report](http://Xu-Duan.github.io/files/optimization.pdf)
 ![Image Comparison](http://Xu-Duan.github.io/images/Optimization.png)
+
+---
 
 # 5. Control System Design for an Underwater Vehicle
 * Developed a mathematical model and simulation of a 6-DOF underwater vehicle with voltage distribution for different propellers in Simulink.
