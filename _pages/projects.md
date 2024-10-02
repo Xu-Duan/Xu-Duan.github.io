@@ -33,7 +33,7 @@ Numerical investigation of a fluid domain activated by a waving plate using Latt
 ---
 
 # 4. Image reconstruction using convex optimization
-we delved into the realm of dictionary learning models and optimization algorithms to address the challenges of grayscale and color image processing. Our primary focus was on two key aspects: dictionary learning and descent methods. [Report](http://Xu-Duan.github.io/files/optimization.pdf)
+Delved into the realm of dictionary learning models and optimization algorithms to address the challenges of grayscale and color image processing. Our primary focus was on two key aspects: dictionary learning and descent methods. [Report](http://Xu-Duan.github.io/files/optimization.pdf)
 ![Image Comparison](http://Xu-Duan.github.io/images/Optimization.png)
 
 ---
