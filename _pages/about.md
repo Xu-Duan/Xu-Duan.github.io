@@ -49,7 +49,7 @@ He also developed methodologies for fluid-structure interactions involving float
 
 # Honors and Awards
   * Philip C. and Linda L. Lewis Foundation Graduate Fellowship Aug. 2024
-  * CCS (China ship Classification Society) Scholarship Sep. 2022, 2020
+  * CCS (China ship Classification Society) Scholarship Sep. 2022, Sep. 2020
   * Shengshen Scholarship Sep. 2021
 
 ---
