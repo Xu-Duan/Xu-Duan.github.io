@@ -20,7 +20,7 @@ He also developed methodologies for fluid-structure interactions involving float
 
 # Education
 * M.S. in Mechanical Engineering, The University of Texas at Austin, 2026 (Expected)
-* B.S. in Naval Architecture and Marine Engineering, Shanghai Jiao Tong University, 2023
+* B.E. in Naval Architecture and Marine Engineering, Shanghai Jiao Tong University, 2023
 
 ---
 

@@ -13,7 +13,7 @@ redirect_from:
 ======
 *Well Hydraulics and Thermodynamics Research Assistant, Supervisor: [Dr. van Oort](https://www.pge.utexas.edu/facultystaff/faculty-directory/vanoort)*
 
-TODO
+Selected Results will be shown here after the paper was received.
 
 Haipeng Marine Engineering (Shanghai) Co.
 ======
