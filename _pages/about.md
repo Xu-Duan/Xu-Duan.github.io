@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Xu Duan is currently a Research Assitant with Rig Automation and Performance Improvement in Drilling (RAPID) which is an industry affiliate program at UT Austin’s Cockrell School of Engineering, aiming at bringing advanced well construction technologies to various subsurface energy industries. He is also pursuing a Master’s degree in Mechanical Engineering at The University of Texas at Austin, focusing on Dynamic Systems and Control.
 
-With a strong background in hydrodynamics and structural analysis from his time at Shanghai Jiao Tong University, Xu further advanced his expertise in engineering tools like HydroStar and Abaqus through his intership at Haipeng Marine Engineering Co. where he conducted hydroelastic analysis of fish farming vessels using discretized modules method.
+With a strong background in hydrodynamics and structural analysis from his time at Shanghai Jiao Tong University, Xu further advanced his expertise in engineering tools like HydroStar and Abaqus through his internship at Haipeng Marine Engineering Co. where he conducted hydroelastic analysis of fish farming vessels using discretized modules method.
 
 He also developed methodologies for fluid-structure interactions involving floating structures in non-homogeneous, near-shore environments by numerically solving the fully nonlinear Boussinesq wave models during during his role as a Research Assistant at the State Key Laboratory of Ocean Engineering.
 

@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # 1. FEM
-Numerical investigation of linear advection equation with SUPG method. [Report](http://Xu-Duan.github.io/files/Numerical%20investigation%20of%20linear%20advection%20equation%20with%20SUPG%20method.pdf)
+*Numerical investigation of linear advection equation with SUPG method.* [Report](http://Xu-Duan.github.io/files/Numerical%20investigation%20of%20linear%20advection%20equation%20with%20SUPG%20method.pdf)
+* Solved the linear advection equation with adaptive mesh refinement using deal.II on a Linux system.
+* Utilized parallel computing with multiple processors accessing shared memory techniques in deal.II to assemble the global matrix and accelerate computation.
 
 ## 2D result
 ![2D result](http://Xu-Duan.github.io/images/solution-5-2d.png)
@@ -21,7 +23,10 @@ Numerical investigation of linear advection equation with SUPG method. [Report](
 ---
 
 # 2. Shallow water wave simulation
-Numerical modeling of water wave evolution in shallow and variable-depth terrain using Finite Volume in Fortran. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
+Numerical modeling of water wave evolution in shallow and variable-depth terrain using Finite Volume Method in Fortran. [Report](http://Xu-Duan.github.io/files/CFD.pdf)
+* Developed a Fortran program to numerically solve fully nonlinear Boussinesq Wave Model from scratch.
+* Applied the Monotonic Upstream-centered Scheme for Conservation Law (MUSCL) for spatial discretizing and utilized the third-order Strong Stability-Preserving (SSP) Runge-Kutta scheme for time integration.
+
 ![Time step](http://Xu-Duan.github.io/images/timeStep.png)
 
 ---
@@ -38,7 +43,14 @@ Delved into the realm of dictionary learning models and optimization algorithms 
 
 ---
 
-# 5. Control System Design for an Underwater Vehicle
-* Developed a mathematical model and simulation of a 6-DOF underwater vehicle with voltage distribution for different propellers in Simulink.
-* Designed a Proportional Integral Differential (PID) control system to correct deviations between the robot’s actual depth and bow direction and target depth and bow direction with overshoot 19% and 31% and settling time 5s and 15s for depth and bow direction, respectively.
-![depth](http://Xu-Duan.github.io/images/response-depth.png) ![depth](http://Xu-Duan.github.io/images/response-direction.png)
+# 5. Controller Design
+*Control System Design for an Underwater Vehicle*
+* Developed a Simulink model for simulating an underwater vehicle, incorporating a 4-DOF dynamic model of the ROV, along with a propulsion system model and a voltage allocation module.
+* Designed a Proportional Integral Differential (PID) control system to correct deviations between the robot's actual depth and heading, achieving 18.50% and 31.57% overshoot, with settling time of 5.13s and 12.84s for depth and heading, respectively.
+
+![depth](http://Xu-Duan.github.io/images/response-depth.png) ![heading](http://Xu-Duan.github.io/images/response-direction.png)
+
+# 6. Wind Speed Prediction
+*Wind Speed Prediction with Neural Networks	and Signal Decomposition Techniques* [Report](http://Xu-Duan.github.io/files/Wind-Prediction.pdf)
+* Conducted short-term wind speed forecasting using a Long Short-Term Memory (LSTM) neural network based on historical wind speed data.
+* Employed signal processing techniques to preprocess raw wind speed data for improved model accuracy.
