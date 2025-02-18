@@ -22,19 +22,32 @@ redirect_from:
 
 ---
 # 2. Coupled managed pressure and temperature drilling in geothermal and HPHT wells
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    This paper introduces an integrated MPD-MTD control framework based on improved reduced drift-flux model (RDFM) that incorporates temperature dynamics, interface mass transfer, and a new lumped pressure dynamics model to describe geothermal and HPHT drilling. The proposed MPD-MTD control strategy utilizes MPD choke adjustments, flow rate modulation, and mud cooling to simultaneously regulate downhole pressure and temperature. 
+  </div>
+  <div style="flex: 1;">
+    <img src="http://Xu-Duan.github.io/images/SGW2025Diagram1.png" alt="2D result">
+    <img src="http://Xu-Duan.github.io/images/SGW2025Diagram2.png" alt="3D result">
+  </div>
+</div>
 
+---
 # 3. FEM
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 1;">
     <p><em>Numerical investigation of linear advection equation with SUPG method.</em> <a href="http://Xu-Duan.github.io/files/Numerical%20investigation%20of%20linear%20advection%20equation%20with%20SUPG%20method.pdf">Report</a></p>
     <ul>
-      <li>Solved the linear advection equation with adaptive mesh refinement using deal.II on a Linux system.</li>
-      <li>Utilized parallel computing with multiple processors accessing shared memory techniques in deal.II to assemble the global matrix and accelerate computation.</li>
+      <li>Solved the linear advection equation with adaptive mesh refinement using deal.II and FEniCS on a Linux system.</li>
+      <li>Conducted numerical experiments in 1D 2D and 3D domains.</li>
+      <li>Utilized parallel computing with multiple processors accessing shared memory techniques to assemble the global matrix and accelerate computation.</li>
+      <li>Compare the results and convergence rates from SUPG, Standard Galerkin, and Upwind methods.</li>
     </ul>
   </div>
   <div style="flex: 1;">
     <img src="http://Xu-Duan.github.io/images/solution-5-2d.png" alt="2D result">
-    <img src="http://Xu-Duan.github.io/images/solution-2-3d.png" alt="3D result">
+    <img src="http://Xu-Duan.github.io/images/convergence_rate.png" alt="2D result">
+    <img src="http://Xu-Duan.github.io/images/N20.png" alt="3D result">
   </div>
 </div>
 
