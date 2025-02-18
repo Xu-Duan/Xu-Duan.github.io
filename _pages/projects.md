@@ -25,9 +25,10 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 1;">
     This paper introduces an integrated MPD-MTD control framework based on improved reduced drift-flux model (RDFM) that incorporates temperature dynamics, interface mass transfer, and a new lumped pressure dynamics model to describe geothermal and HPHT drilling. The proposed MPD-MTD control strategy utilizes MPD choke adjustments, flow rate modulation, and mud cooling to simultaneously regulate downhole pressure and temperature. 
+    <img src="http://Xu-Duan.github.io/images/SGW2025Diagram1.png" alt="2D result">
   </div>
   <div style="flex: 1;">
-    <img src="http://Xu-Duan.github.io/images/SGW2025Diagram1.png" alt="2D result">
+    
     <img src="http://Xu-Duan.github.io/images/SGW2025Diagram2.png" alt="3D result">
   </div>
 </div>
@@ -43,9 +44,9 @@ redirect_from:
       <li>Utilized parallel computing with multiple processors accessing shared memory techniques to assemble the global matrix and accelerate computation.</li>
       <li>Compare the results and convergence rates from SUPG, Standard Galerkin, and Upwind methods.</li>
     </ul>
+    <img src="http://Xu-Duan.github.io/images/solution-5-2d.png" alt="2D result">
   </div>
   <div style="flex: 1;">
-    <img src="http://Xu-Duan.github.io/images/solution-5-2d.png" alt="2D result">
     <img src="http://Xu-Duan.github.io/images/convergence_rate.png" alt="2D result">
     <img src="http://Xu-Duan.github.io/images/N20.png" alt="3D result">
   </div>
