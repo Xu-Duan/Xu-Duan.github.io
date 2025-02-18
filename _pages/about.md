@@ -54,6 +54,14 @@ He also developed methodologies for fluid-structure interactions involving float
 
 ---
 
+Publications
+======
+
+[1] X Duan, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Coupled Managed Pressure and Temperature Drilling in Geothermal and HPHT Wells*. *50th Stanford Geothermal Workshop*. [Paper](https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2025/Duan.pdf)
+
+[2] X Duan, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Hydraulic Forces Induced by Drillstring Whirling and Rotation Dynamics: A Numerical Investigation in 2D and 3D Domains*. *45th OMAE*. [Accepted]
+
+---
 Skills
 ======
 * Modeling
