@@ -19,14 +19,14 @@ I would describe myself as a enthusiastic and curious person, always looking to 
 ---
 
 # Education
-* M.S. in Mechanical Engineering, The University of Texas at Austin, 2025 (Expected)
+* M.S. in Mechanical Engineering, The University of Texas at Austin, Fall 2025 (Expected)
 * B.E. in Naval Architecture and Marine Engineering, Shanghai Jiao Tong University, 2023
 
 ---
 
 # Honors and Awards
   * Philip C. and Linda L. Lewis Foundation Graduate Fellowship Aug. 2024
-  * CCS (China ship Classification Society) Scholarship Sep. 2022, Sep. 2020
+  * China National Scholarship, Sep. 2022, Sep. 2020
   * Shengshen Scholarship Sep. 2021
 
 ---
