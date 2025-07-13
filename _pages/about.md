@@ -16,7 +16,7 @@ My studies are focused on Computational Science and Numerical Analysis.
 
 ---
 
-News
+🔥 News
 ======
 
 [1] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* called *Understanding Drilling Vibrations Using a Coupled Fluid–Drillstring Dynamics Approach* was accepted!
@@ -25,10 +25,10 @@ News
 
 ---
 
-Publications
+📝 Publications
 ======
 
-[1] **X Duan**, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Integration of MPD with Managed Temperature Drilling (MTD) for Geothermal and HPHT Drilling*. 44th International Conference on Ocean, Offshore & Arctic Engineering, ASME. https://doi.org/10.2118/OMAE2025-228390-MS (Apearing Soon)
+[1] **X Duan**, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Integration of MPD with Managed Temperature Drilling (MTD) for Geothermal and HPHT Drilling*. 44th International Conference on Ocean, Offshore & Arctic Engineering, ASME. https://doi.org/10.2118/228390-MS (Appearing Soon)
 
 [2] **X Duan**, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Hydraulic Forces Induced by Drillstring Whirling and Rotation Dynamics: A Numerical Investigation in 2D and 3D Domains*. *44th International Conference on Ocean, Offshore & Arctic Engineering*. https://doi.org/10.1115/OMAE2025-156410
 
@@ -37,6 +37,7 @@ Publications
 
 ---
 
-# Education
+📖 Education
+===
 * M.S. in Mechanical Engineering, The University of Texas at Austin, Fall 2026 (Expected)
 * B.E. in Naval Architecture and Marine Engineering, Shanghai Jiao Tong University, 2023
