@@ -19,9 +19,9 @@ My focus is on Computational Science and Numerical Analysis.
 🔥 News
 ======
 
-[1] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* called *Understanding Drilling Vibrations Using a Coupled Fluid–Drillstring Dynamics Approach* was accepted!
+[1] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* titled *Understanding Drilling Vibrations Using a Coupled Fluid–Drillstring Dynamics Approach* was accepted!
 
-[2] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* called *Automation Of Simultaneous Temperature And Pressure Control In A Geothermal Test Well* was accepted!
+[2] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* titled *Automation Of Simultaneous Temperature And Pressure Control In A Geothermal Test Well* was accepted!
 
 ---
 
@@ -39,5 +39,5 @@ My focus is on Computational Science and Numerical Analysis.
 
 📖 Education
 ===
-* M.S. in Mechanical Engineering, The University of Texas at Austin, Fall 2026 (Expected)
+* M.S. in Mechanical Engineering, The University of Texas at Austin, Spring 2026 (Expected)
 * B.E. in Naval Architecture and Marine Engineering, Shanghai Jiao Tong University, 2023
