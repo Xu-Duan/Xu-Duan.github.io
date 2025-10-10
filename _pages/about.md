@@ -6,38 +6,63 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!---
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/Xu-Duan/Xu-Duan.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/Xu-Duan/Xu-Duan.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
---->
 
-I am pursuing a Master’s degree in Mechanical Engineering at The University of Texas at Austin, specializing in Dynamic Systems and Control. I am also a Research Assistant, working on developing advanced multiphase fluid models, deriving reduced-order models, and designing control systems for drilling operations. I am fortunate to be co-advised by [Dr. van Oort](https://www.pge.utexas.edu/facultystaff/faculty-directory/vanoort) and [Dr. Chen](https://www.me.utexas.edu/people/faculty-directory/chen).
+I am a **Master’s student in Mechanical Engineering** at **The University of Texas at Austin**, specializing in **Dynamic Systems and Control**. I am co-advised by [Dr. Eric van Oort](https://www.pge.utexas.edu/facultystaff/faculty-directory/vanoort) and [Dr. Dongmei Chen](https://www.me.utexas.edu/people/faculty-directory/chen), and currently serve as a **Research Assistant** in the **RAPID Group**, focusing on **well hydraulics, thermodynamics, and intelligent control systems** for drilling operations.
 
-My focus is on Computational Science and Numerical Analysis.
+My research bridges **control theory, computational fluid dynamics, and scientific machine learning**, with a particular emphasis on:
+- Multiphase flow modeling and numerical simulation using the **Finite Volume Method (FVM)**,
+- **Model Predictive Control (MPC)** and **Iterative Learning Control (ILC)** for complex nonlinear processes,
+- **Physics-informed flow matching** and **trajectory-optimized density control** inspired by **Optimal Transport (OT)** and **Schrödinger Bridge (SB)** theory.
 
----
-
-🔥 News
-======
-
-[1] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* titled *Understanding Drilling Vibrations Using a Coupled Fluid–Drillstring Dynamics Approach* was accepted!
-
-[2] Our abstract for *2025 SPE/IADC International Drilling Conference and Exhibition* titled *Automation Of Simultaneous Temperature And Pressure Control In A Geothermal Test Well* was accepted!
+I am passionate about developing **physics-grounded, data-driven algorithms** that unify model-based reasoning and machine learning for dynamic system optimization.
 
 ---
 
-📝 Publications
-======
+### 🔬 Research Highlights
 
-[1] **X Duan**, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Integration of MPD with Managed Temperature Drilling (MTD) for Geothermal and HPHT Drilling*. 44th International Conference on Ocean, Offshore & Arctic Engineering, ASME. https://doi.org/10.2118/228390-MS (Appearing Soon)
+- **Trajectory-Optimized Density Control with Flow Matching**  
+  Developed a novel trajectory-optimized flow-matching framework that unifies **OT** and **SB** principles for multi-agent density control. Demonstrated collision-free transport and computational efficiency comparable to standard flow-matching algorithms.  
+  [arXiv:2510.06666](https://arxiv.org/abs/2510.06666)
 
-[2] **X Duan**, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Hydraulic Forces Induced by Drillstring Whirling and Rotation Dynamics: A Numerical Investigation in 2D and 3D Domains*. *44th International Conference on Ocean, Offshore & Arctic Engineering*. https://doi.org/10.1115/OMAE2025-156410
+- **Model Predictive Control for Geothermal Drilling (NOV Collaboration)**  
+  Designed a physics-based MPC framework integrating thermodynamics and reduced-order modeling via **SINDy**, achieving stable control of **bottomhole pressure and temperature** in HPHT and geothermal environments.
 
+- **Sequential Quadratic Programming Iterative Learning Control (SQP-ILC)**  
+  Proposed an SQP-based ILC scheme for nonlinear **roll-to-roll manufacturing**, rigorously handling input constraints and nonlinear peeling dynamics. Experimentally validated on a graphene dry-transfer testbed.  
+  [DOI:10.1115/1.4069342](https://doi.org/10.1115/1.4069342)
 
-[3] **X Duan**, Y Zhang, P Ashok, D Chen, E van Oort (2025). *Coupled Managed Pressure and Temperature Drilling in Geothermal and HPHT Wells*. *50th Stanford Geothermal Workshop*. [Paper](https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2025/Duan.pdf)
+- **Hydraulic Forces Induced by Drillstring Whirling and Rotation Dynamics**  
+  Conducted **CFD simulations** using the **Finite Volume Method** to quantify coupled **fluid–structure interactions** in drilling systems, improving understanding of dynamic stability under whirling motion.  
+  [DOI:10.1115/OMAE2025-156410](https://doi.org/10.1115/OMAE2025-156410)
 
 ---
 
-📖 Education
-===
-* M.S. in Mechanical Engineering, The University of Texas at Austin, Spring 2026 (Expected)
-* B.E. in Ocean Engineering, Shanghai Jiao Tong University, 2023
+### 📚 Publications
+
+1. **X. Duan**, D. Chen (2025). *Trajectory-Optimized Density Control with Flow Matching.* arXiv preprint. [arXiv:2510.06666](https://arxiv.org/abs/2510.06666)  
+2. **X. Duan**, Y. Zhang, P. Ashok, D. Chen, E. van Oort (2025). *Integration of MPD with Managed Temperature Drilling (MTD) for Geothermal and HPHT Drilling.* *SPE/IADC MPD Conference.* [DOI:10.2118/SPE-228390-MS](https://onepetro.org/SPEMPDU/proceedings-abstract/25MPDU/25MPDU/D021S008R003/789512)  
+3. **X. Duan**, Y. Zhang, P. Ashok, D. Chen, E. van Oort (2025). *Hydraulic Forces Induced by Drillstring Whirling and Rotation Dynamics.* *44th OMAE Conference.* [DOI:10.1115/OMAE2025-156410](https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2025/88957/V006T11A015/1221596)  
+4. **X. Duan**, Y. Zhang, P. Ashok, D. Chen, E. van Oort (2025). *Coupled Managed Pressure and Temperature Drilling in Geothermal and HPHT Wells.* *50th Stanford Geothermal Workshop.*
+
+---
+
+### 🎓 Education
+
+- **M.S. in Mechanical Engineering**, *The University of Texas at Austin* (Expected Dec 2025)  
+  *Dynamic Systems and Control Area; Co-advised by Dr. van Oort & Dr. Chen*  
+
+- **B.E. in Mechanical Engineering**, *Shanghai Jiao Tong University*, 2023  
+  *Graduated with honors; Focus on Computational Mechanics and Control Theory*
+
+---
+
+### 💡 Technical Skills
+
+**Programming:** Python, C/C++, MATLAB, Linux  
+**Numerical Methods:** Finite Volume Method (FVM), Finite Element Method (FEM), Runge–Kutta, MUSCL, deal.II  
+**Control:** MPC, ILC, PID, SINDy, Reduced-Order Modeling  
+**Other Interests:** Scientific Machine Learning, Optimal Transport, Stochastic Processes, Tensor Methods  
+
+---
+
+*“Bridging physics, computation, and control to engineer intelligent dynamic systems.”*

@@ -22,9 +22,9 @@ repository               : "Xu-Duan/Xu-Duan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xu Duan"
+  name             : "Xu Duan (段旭)"
   pronouns         : # example: "she/her"  
-  bio              : "Numerical Analysis"
+  bio              : "optimal Control, Numerical Analysis"
   location         : "Austin, TX"
   employer         : "The University of Texas at Austin"
   uri              : # URL
